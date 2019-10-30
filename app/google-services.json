@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "636230576633",
+    "firebase_url": "https://charbillim.firebaseio.com",
+    "project_id": "charbillim",
+    "storage_bucket": "charbillim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636230576633:android:402a0e131f4e8eaf",
+        "android_client_info": {
+          "package_name": "app.gh.chabilim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636230576633-ete49hm487faob61p4sp7vgl6gu3888a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhWSfiP30DKlWR3ZevzIe6JEIQetvR1_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636230576633-ete49hm487faob61p4sp7vgl6gu3888a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "636230576633-v7u7q46jlal6glsm89o51oe4ebdrt5vs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kr.ghsoft.Charbillim"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
